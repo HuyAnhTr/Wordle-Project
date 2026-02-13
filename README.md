@@ -124,11 +124,12 @@ python main.py
 - The ultimate introduction to Pygame by Clear Code: https://www.youtube.com/watch?v=AY9MnQ4x3zk
 Và các reference khác nằm trong source code của đồ án này
 
-## 7. Lưu ý cho người chấm 
+## 7. Lưu ý cho người chơi
 * File `data.json` là file chứa dữ liệu của game, tự động tạo nếu không có
 * Nếu muốn reset toàn bộ dữ liệu về ban đầu thì phải xóa file `data.json`.
 * Nếu người chơi load game từ **Slot 1**, khi lưu lại game sẽ tự động ghi đè vào **Slot 1** (trừ khi người chơi chủ động chọn Slot khác).
 * Khi người chơi Thua (`Game Over`) hoặc Hoàn thành (`Finished`), dữ liệu Save Slot tương ứng sẽ tự động bị xóa.
 * Đồ án chỉ sử dụng 1 thư viện ngoài là `pygame` và các thư viện chuẩn của Python (`json`, `time`, `random`).
 * Mode Tiếng Việt và Tiếng Anh là 2 mode khác nhau, top-20, resume, save slot của 2 mode là khác nhau.
+
 * Đôi khi nhập từ tiếng Việt trong mode Tiếng Việt sẽ không hiện dấu, khuyến nghị nên xài kiểu gõ VNI và nếu nhập không ra dấu thì lưu vô save_slots/resume rồi mở lại để chơi tiếp.
