@@ -1,8 +1,6 @@
-﻿# ĐỒ ÁN GAME WORDLE
+﻿# WORDLE
 
-**Sinh viên thực hiện:** Trần Hoàng Huy Anh  
-**Trường:** Đại học Khoa học Tự nhiên, ĐHQG-HCM (HCMUS)  
-**Thời gian thực hiện:** 01/01/2026 - 11/02/2026
+**Name:** Trần Hoàng Huy Anh - HCMUS
 
 ---
 
@@ -133,3 +131,4 @@ Và các reference khác nằm trong source code của đồ án này
 * Mode Tiếng Việt và Tiếng Anh là 2 mode khác nhau, top-20, resume, save slot của 2 mode là khác nhau.
 
 * Đôi khi nhập từ tiếng Việt trong mode Tiếng Việt sẽ không hiện dấu, khuyến nghị nên xài kiểu gõ VNI và nếu nhập không ra dấu thì lưu vô save_slots/resume rồi mở lại để chơi tiếp.
+
