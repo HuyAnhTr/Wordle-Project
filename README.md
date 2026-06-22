@@ -82,7 +82,7 @@ python main.py
 | 3.1 | Mã hóa dữ liệu | Mã hóa file save để tránh gian lận. | 100% | Sử dụng thuật toán XOR kết hợp ghi file Binary (`wb/rb`). |
 | 3.2 | Save Slots | Hỗ trợ 5 slot lưu trữ khác nhau. | 100% | Cho phép chọn Slot để lưu và chơi tiếp từ Slot cụ thể. |
 | 3.3 | How To Play | Màn hình hướng dẫn chơi. | 100% | Lấy ý tưởng từ trò chơi gốc |
-| 3.4 | Dark Mode / Light Mode. | 100% | Có nút switch bật tắt trong Setting. |
+| 3.4 | Dark Mode / Light Mode. | | 100% | Có nút switch bật tắt trong Setting. |
 
 **Tổng kết mức độ hoàn thành:** 100% yêu cầu cơ bản + 100% yêu cầu mở rộng.
 
